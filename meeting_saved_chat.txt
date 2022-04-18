@@ -1,0 +1,14 @@
+20:10:45 From Andrey Rogovsky to Everyone:
+	https://github.com/tj-actions/changed-files
+21:10:23 From Andrey Rogovsky to Everyone:
+	https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-ec2-launchtemplate.html
+21:10:35 From Andrey Rogovsky to Everyone:
+	https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-services-us-west-2.html#w2ab1c33c58c13c17
+21:10:44 From Andrey Rogovsky to Everyone:
+	https://aws.amazon.com/ru/cloudformation/resources/templates/
+21:11:02 From Andrey Rogovsky to Everyone:
+	https://drive.google.com/file/d/1EzIUDdjpFYoqcm3388Rie7vqhIyLJWb7/view?usp=sharing
+21:11:12 From Andrey Rogovsky to Everyone:
+	https://dev.to/aws-builders/a-simple-github-action-for-securing-cloudformation-1id7
+21:11:41 From Andrey Rogovsky to Everyone:
+	https://github.com/aws-cloudformation/cloudformation-guard

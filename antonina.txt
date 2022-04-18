@@ -1,0 +1,15 @@
+#### Links
+
+https://github.com/tj-actions/changed-files
+
+https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-ec2-launchtemplate.html
+
+https://drive.google.com/file/d/1EzIUDdjpFYoqcm3388Rie7vqhIyLJWb7/view
+
+https://dev.to/aws-builders/a-simple-github-action-for-securing-cloudformation-1id7
+
+https://github.com/aws-cloudformation/cloudformation-guard
+
+---
+
+https://github.com/Any-DevOps-Solutions/devops-wawe1-aws
